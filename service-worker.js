@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://dhana-krishnasamy.github.io/csb-ux4t27/precache-manifest.91ddd26c8cecb56aba8a0241a15af675.js"
+  "https://dhana-krishnasamy.github.io/csb-ux4t27/precache-manifest.a41a876a7896638647d8c77662ad6981.js"
 );
 
 workbox.clientsClaim();
